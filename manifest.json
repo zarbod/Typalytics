@@ -1,0 +1,14 @@
+{
+  "name": "Typalytics",
+  "description": "Type Racer Assistant",
+  "version": "1.0",
+  "manifest_version": 2,
+  "icons": {
+    "48":"Images/icon48.png",
+    "128": "Images/icon128.png"
+  },
+  "permissions" : ["activeTab", "storage"],
+  "browser_action" : {
+    "default_popup" : "/html/popup.html"
+  }
+}

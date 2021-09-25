@@ -1,0 +1,43 @@
+button{
+    background-color: #ffcc02;
+    text-align: center;
+    text-decoration: blue;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 16px;
+    color: black;
+    padding: 5px;
+    margin:auto;
+}
+button:hover{
+    border-radius: 10px;
+    background-color: #b06c01;
+}
+button:active{
+    background-color: #40ff00;
+}
+#count{
+    align-content: center;
+    align-self: center;
+    text-align:center;
+    background-color: rgb(255, 204, 2);
+    margin: 10px auto auto;
+    border-radius: 10px;
+}
+#bod{
+    background-color: rgb(23, 195, 245);
+    border-radius: 16px;
+    padding:10px;
+    align-content: center;
+    align-items: center;
+    margin:auto;
+    position:relative;
+    text-align: center;
+}
+#border{
+    background-color:black;
+    padding: -500px;
+    align-content: center;
+    margin: auto;
+    position:relative;
+}
