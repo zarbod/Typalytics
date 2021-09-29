@@ -16,6 +16,12 @@ button:hover{
 button:active{
     background-color: #40ff00;
 }
+#refreshButton{
+    color: red;
+}
+#refreshButton:active{
+    color:green;
+}
 #count{
     align-content: center;
     align-self: center;
