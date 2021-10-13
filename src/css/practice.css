@@ -1,0 +1,18 @@
+body {
+    background: black;
+    color: white;
+    margin:auto;
+    text-align: center;
+}
+#clearButton{
+    margin-top: 10px;
+}
+button{
+    border-radius: 15px;
+    background-color: #ffcc02;
+    margin: auto;
+}
+button:active{
+    background-color: #40ff00;
+    color: #ffcc02;
+}
